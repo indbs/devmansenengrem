@@ -1,0 +1,4 @@
+# Created by cloud-init v. 20.4.1-0ubuntu1~20.04.1 on Mon, 29 Mar 2021 17:08:01 +0000
+
+# User rules for adm10
+adm10 ALL=(ALL) NOPASSWD:ALL
